@@ -15,20 +15,20 @@
 $helpcentrelngver = 'YaBB 2.6.11 $Revision: 1611 $';
 
 %helptxt = (
-'1' => "Help Section",
-'2' => "Contents",
-'3' => "User Help",
+'1' => "帮助",
+'2' => "目录",
+'3' => "用户帮助",
 '4' => "Moderator Help",
 '5' => "Global Moderator Help",
-'6' => "Administrator Help",
-'7' => "Edit Help Center Entries",
-'8' => "Done.",
-'9' => "Use Permissions",
+'6' => "A",
+'7' => "修改帮助中心的条目",
+'8' => "完成。",
+'9' => "允许的权限",
 '10' => "This is where you edit, add, remove or re-order the help sections shown to the users in the help system. In the left-hand fields you see the available help sections. You can mark and edit them or add them to the right-hand fields by marking and clicking the arrow to make them visible in the help system.",
-'643' => 'Back to top',
-'769' => "Flash location",
-'7a' => '    Section Title',
-'7b' => 'Sub-section Title',
+'643' => '回到顶部',
+'769' => "Flash的位置",
+'7a' => '节标题',
+'7b' => '子标题',
 );
 
 1;
